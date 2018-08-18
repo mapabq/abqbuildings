@@ -27,6 +27,6 @@ The main repo for outlining data import methods for mass buildings import into O
 
 ## Maps
 
-[Census Blocks](https://mapabq.github.io/abqbuildings/blockgroups.html)
+[Census Blocks](https://mapabq.github.io/abqbuildings/blocks.html)
 
 [Census Block Groups](https://mapabq.github.io/abqbuildings/blockgroups.html)
